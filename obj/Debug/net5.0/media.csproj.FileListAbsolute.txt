@@ -1,0 +1,16 @@
+C:\workspace\media\bin\Debug\net5.0\media.exe
+C:\workspace\media\bin\Debug\net5.0\media.deps.json
+C:\workspace\media\bin\Debug\net5.0\media.runtimeconfig.json
+C:\workspace\media\bin\Debug\net5.0\media.runtimeconfig.dev.json
+C:\workspace\media\bin\Debug\net5.0\media.dll
+C:\workspace\media\bin\Debug\net5.0\ref\media.dll
+C:\workspace\media\bin\Debug\net5.0\media.pdb
+C:\workspace\media\obj\Debug\net5.0\media.csprojAssemblyReference.cache
+C:\workspace\media\obj\Debug\net5.0\media.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\media\obj\Debug\net5.0\media.AssemblyInfoInputs.cache
+C:\workspace\media\obj\Debug\net5.0\media.AssemblyInfo.cs
+C:\workspace\media\obj\Debug\net5.0\media.csproj.CoreCompileInputs.cache
+C:\workspace\media\obj\Debug\net5.0\media.dll
+C:\workspace\media\obj\Debug\net5.0\ref\media.dll
+C:\workspace\media\obj\Debug\net5.0\media.pdb
+C:\workspace\media\obj\Debug\net5.0\media.genruntimeconfig.cache
